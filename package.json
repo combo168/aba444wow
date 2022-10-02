@@ -1,0 +1,15 @@
+{
+  "name": "aba444wow",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "aba444 เว็บเล่นสล็อตออนไลน์ที่มียอดคนเล่นมากที่สุดในประเทศไทย จ่ายไวจ่ายจริง แตกกี่บาทเราก็จ่าย",
+  "keywords": [
+    "aba444",
+    "เว็บเล่นสล็อต"
+  ],
+  "repository": "https://github.com/combo168/aba444wow",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
